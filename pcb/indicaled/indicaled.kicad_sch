@@ -1928,7 +1928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".01uF"
+		(property "Value" "0.01uF"
 			(at 66.04 50.7999 0)
 			(effects
 				(font
@@ -2144,7 +2144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_APV_ANR4020"
+		(property "Footprint" "Inductor_SMD:L_APV_ANR5040"
 			(at 95.25 21.59 0)
 			(effects
 				(font
@@ -2153,7 +2153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Sunlord-SWPA5040S6R8MT/C36411"
 			(at 95.25 21.59 0)
 			(effects
 				(font
@@ -2406,7 +2406,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SS26"
+		(property "Value" "SS24FL"
 			(at 90.17 29.2099 90)
 			(effects
 				(font
@@ -2425,7 +2425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/onsemi-SS24FL/C894433"
 			(at 87.63 27.94 0)
 			(effects
 				(font
@@ -3163,7 +3163,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".1uF"
+		(property "Value" "0.1uF"
 			(at 59.69 29.2099 0)
 			(effects
 				(font
@@ -3181,7 +3181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/MurataElectronics-GRM155R71A104KA01D/C71687"
 			(at 55.88 27.94 0)
 			(effects
 				(font
