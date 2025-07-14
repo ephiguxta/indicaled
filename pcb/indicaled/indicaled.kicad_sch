@@ -2085,7 +2085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC1210JKNPO9BN472/C577266"
 			(at 24.13 39.37 0)
 			(effects
 				(font
@@ -2745,7 +2745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579708378375393280"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/TexasInstruments-TPS54331DR/C9865"
 			(at 68.58 33.02 0)
 			(effects
 				(font
@@ -3015,7 +3015,7 @@
 		(dnp no)
 		(uuid "bff0cd4e-7d5f-4679-b0cd-d676d43fbffd")
 		(property "Reference" "C3"
-			(at 46.482 37.592 0)
+			(at 46.99 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3023,8 +3023,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ".01uF"
-			(at 46.482 40.132 0)
+		(property "Value" "10nF"
+			(at 46.99 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3041,7 +3041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YAGEO-CC1210KKX7R0BB103/C527374"
 			(at 44.45 39.37 0)
 			(effects
 				(font
@@ -3320,7 +3320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/KEMET-C1210C390K3HAC7800/C2209308"
 			(at 34.29 39.37 0)
 			(effects
 				(font
