@@ -1928,7 +1928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01uF"
+		(property "Value" "8.2nF"
 			(at 66.04 50.7999 0)
 			(effects
 				(font
@@ -1946,7 +1946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/2260156-GRM033R71A822KA01D/C2168104"
 			(at 62.23 49.53 0)
 			(effects
 				(font
@@ -2745,7 +2745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/TexasInstruments-TPS54331DR/C9865"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579708378375393280"
 			(at 68.58 33.02 0)
 			(effects
 				(font
